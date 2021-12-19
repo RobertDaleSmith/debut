@@ -12,9 +12,37 @@
         "button_label": "",
         "button_link": ""
       }
+    },
+    "1639947837a0d20b73": {
+      "type": "hero",
+      "settings": {
+        "alignment": "center",
+        "hero_layout": "full_width",
+        "hero_size": "medium",
+        "text_size": "medium",
+        "title": "Image with text overlay",
+        "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "163994797293dac86b": {
+      "type": "hero",
+      "settings": {
+        "alignment": "center",
+        "hero_layout": "full_width",
+        "hero_size": "medium",
+        "text_size": "medium",
+        "title": "Image with text overlay",
+        "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+        "button_label": "",
+        "button_link": ""
+      }
     }
   },
   "order": [
-    "hero-1"
+    "hero-1",
+    "1639947837a0d20b73",
+    "163994797293dac86b"
   ]
 }
