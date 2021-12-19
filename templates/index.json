@@ -50,10 +50,10 @@
         "hero_layout": "full_width",
         "hero_size": "small",
         "text_size": "medium",
-        "title": "ControllerShirt",
+        "title": "Controller Shirt",
         "text": "<p>Support future projects and get a shirt.<\/p>",
-        "button_label": "",
-        "button_link": ""
+        "button_label": "BUY NOW",
+        "button_link": "shopify:\/\/products\/shirt"
       }
     }
   },
