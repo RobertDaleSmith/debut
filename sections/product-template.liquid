@@ -138,7 +138,7 @@
         
         {% for block in section.blocks %}
           {% case block.type %}
-          <div  {% if section.settings.hide_cart_buttons %}style="display: none;"{%- endif -%}>
+          <div  style="display: none;">
             {% when '@app' %}
               {% render block %}
             {% when 'title' %}
