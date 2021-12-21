@@ -123,35 +123,35 @@
         },
         "social_twitter_link": {
           "label": "Twitter",
-          "info": "https://twitter.com/shopify"
+          "info": "https:\/\/twitter.com\/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
-          "info": "https://facebook.com/shopify"
+          "info": "https:\/\/facebook.com\/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
-          "info": "https://pinterest.com/shopify"
+          "info": "https:\/\/pinterest.com\/shopify"
         },
         "social_instagram_link": {
           "label": "Instagram",
-          "info": "http://instagram.com/shopify"
+          "info": "http:\/\/instagram.com\/shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "http://shopify.tumblr.com"
+          "info": "http:\/\/shopify.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "Snapchat",
-          "info": "https://www.snapchat.com/add/shopify"
+          "info": "https:\/\/www.snapchat.com\/add\/shopify"
         },
         "social_youtube_link": {
           "label": "YouTube",
-          "info": "https://www.youtube.com/shopify"
+          "info": "https:\/\/www.youtube.com\/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https://vimeo.com/shopify"
+          "info": "https:\/\/vimeo.com\/shopify"
         }
       }
     },
@@ -938,14 +938,14 @@
         },
         "enable_payment_button": {
           "label": "Show dynamic checkout button",
-          "info": "Each customer will see their preferred payment method from those available on your store, such as PayPal or Apple Pay. [Learn more](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+          "info": "Each customer will see their preferred payment method from those available on your store, such as PayPal or Apple Pay. [Learn more](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
         },
         "show_share_buttons": {
           "label": "Show social sharing buttons"
         },
         "header__1": {
           "content": "Media",
-          "info": "Learn more about [media types](https://help.shopify.com/manual/products/product-media)"
+          "info": "Learn more about [media types](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "media_size": {
           "label": "Size",
@@ -993,15 +993,15 @@
           "label": "Text"
         },
         "header__3": {
-          "content": "Country/region Selector",
-          "info": "To add a country/region, go to your [payment settings.](/admin/settings/payments)"
+          "content": "Country\/region Selector",
+          "info": "To add a country\/region, go to your [payment settings.](\/admin\/settings\/payments)"
         },
         "show_currency_selector": {
-          "label": "Show country/region selector"
+          "label": "Show country\/region selector"
         },
         "header__4": {
           "content": "Language Selector",
-          "info": "To add a language, go to your [language settings.](/admin/settings/languages)"
+          "info": "To add a language, go to your [language settings.](\/admin\/settings\/languages)"
         },
         "show_locale_selector": {
           "label": "Show language selector"
@@ -1035,7 +1035,7 @@
           "settings": {
             "title": {
               "label": "Heading",
-              "info": "Subscribers will be added to your “accepts marketing” [customer list.](/admin/customers?query=&accepts_marketing=1)"
+              "info": "Subscribers will be added to your “accepts marketing” [customer list.](\/admin\/customers?query=&accepts_marketing=1)"
             },
             "text": {
               "label": "Text"
@@ -1329,7 +1329,7 @@
         },
         "api_key": {
           "label": "Google Maps API key",
-          "info": "You’ll need to [register a Google Maps API Key](https://help.shopify.com/manual/using-themes/troubleshooting/map-section-api-key) to display the map"
+          "info": "You’ll need to [register a Google Maps API Key](https:\/\/help.shopify.com\/manual\/using-themes\/troubleshooting\/map-section-api-key) to display the map"
         },
         "background_image": {
           "label": "Image",
@@ -1384,7 +1384,7 @@
           "label": "Show background"
         },
         "paragraph__1": {
-          "content": "Any customers who sign up will have an account created for them in Shopify. [View customers](/admin/customers?query=&accepts_marketing=1)"
+          "content": "Any customers who sign up will have an account created for them in Shopify. [View customers](\/admin\/customers?query=&accepts_marketing=1)"
         }
       },
       "presets": {
@@ -1449,7 +1449,7 @@
       "settings": {
         "show_product_recommendations": {
           "label": "Show dynamic recommendations",
-          "info": "Dynamic recommendations change and improve with time. [Learn more](https://help.shopify.com/en/themes/development/recommended-products)"
+          "info": "Dynamic recommendations change and improve with time. [Learn more](https:\/\/help.shopify.com\/en\/themes\/development\/recommended-products)"
         },
         "heading": {
           "label": "Heading"
@@ -1473,14 +1473,14 @@
         },
         "enable_payment_button": {
           "label": "Show dynamic checkout button",
-          "info": "Each customer will see their preferred payment method from those available on your store, such as PayPal or Apple Pay. [Learn more](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
+          "info": "Each customer will see their preferred payment method from those available on your store, such as PayPal or Apple Pay. [Learn more](https:\/\/help.shopify.com\/manual\/using-themes\/change-the-layout\/dynamic-checkout)"
         },
         "show_share_buttons": {
           "label": "Show social sharing buttons"
         },
         "header__1": {
           "content": "Media",
-          "info": "Learn more about [media types](https://help.shopify.com/manual/products/product-media)"
+          "info": "Learn more about [media types](https:\/\/help.shopify.com\/manual\/products\/product-media)"
         },
         "media_size": {
           "label": "Size",
@@ -1598,7 +1598,7 @@
       "settings": {
         "slideshow_height": {
           "label": "Slide height",
-          "info": "Learn more about [slideshow guidelines](https://help.shopify.com/en/manual/using-themes/themes-by-shopify/debut#slideshow-sections-specific)",
+          "info": "Learn more about [slideshow guidelines](https:\/\/help.shopify.com\/en\/manual\/using-themes\/themes-by-shopify\/debut#slideshow-sections-specific)",
           "options__1": {
             "label": "Adapt to first image"
           },
