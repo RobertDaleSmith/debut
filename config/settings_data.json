@@ -121,7 +121,7 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "title": "Quick links",
+              "title": "‎",
               "menu": "footer"
             }
           },
@@ -135,14 +135,14 @@
           "93c23249-c661-470d-b413-74a72f856715": {
             "type": "link_list",
             "settings": {
-              "title": "Resources",
+              "title": "‎",
               "menu": "resources-menu"
             }
           },
           "footer-1": {
             "type": "newsletter",
             "settings": {
-              "title": "Newsletter"
+              "title": "Sign up to get updates on new products and early pre-orders."
             }
           }
         },
