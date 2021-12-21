@@ -3,118 +3,64 @@
     "hero-1": {
       "type": "hero",
       "settings": {
-        "hero_size": "large",
-        "text_size": "large"
+        "image": "shopify:\/\/shop_images\/pushnami-site-icon_ae6b5692-514b-4838-8c88-f0ac523f3fff.png",
+        "alignment": "center",
+        "hero_layout": "full_width",
+        "hero_size": "small",
+        "text_size": "medium",
+        "title": "SNES-2-3DO",
+        "text": "<p>Use Super Nintendo controllers and mice on 3DO consoles<\/p>",
+        "button_label": "Pre-Order",
+        "button_link": "shopify:\/\/products\/snes23do"
       }
     },
-    "feature-row": {
-      "type": "feature-row",
-      "settings": {
-      }
-    },
-    "feature-columns": {
-      "type": "feature-columns",
-      "blocks": {
-        "feature-columns-0": {
-          "type": "text_block",
-          "settings": {
-          }
-        },
-        "feature-columns-1": {
-          "type": "text_block",
-          "settings": {
-          }
-        },
-        "feature-columns-2": {
-          "type": "text_block",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "feature-columns-0",
-        "feature-columns-1",
-        "feature-columns-2"
-      ],
-      "settings": {
-        "title": ""
-      }
-    },
-    "collection": {
-      "type": "collection",
-      "settings": {
-        "grid": 4
-      }
-    },
-    "hero-2": {
+    "1639947837a0d20b73": {
       "type": "hero",
       "settings": {
-        "text_size": "large"
+        "image": "shopify:\/\/shop_images\/IMG_1975_dark_3d9e82ca-f86a-4749-94f2-1bee29176b6f.png",
+        "alignment": "bottom",
+        "hero_layout": "full_width",
+        "hero_size": "small",
+        "text_size": "medium",
+        "title": "3DOControllerReset",
+        "text": "<p>A simple in-game reset mod kit for 3DO consoles<\/p>",
+        "button_label": "Pre-Order",
+        "button_link": "shopify:\/\/products\/3docontrollerreset"
       }
     },
-    "quotes": {
-      "type": "quotes",
-      "blocks": {
-        "quotes-0": {
-          "type": "quote",
-          "settings": {
-          }
-        },
-        "quotes-1": {
-          "type": "quote",
-          "settings": {
-          }
-        },
-        "quotes-2": {
-          "type": "quote",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "quotes-0",
-        "quotes-1",
-        "quotes-2"
-      ],
+    "1639947974c204bf45": {
+      "type": "hero",
       "settings": {
-        "title": ""
+        "image": "shopify:\/\/shop_images\/IMG_2244.jpg",
+        "alignment": "center",
+        "hero_layout": "full_width",
+        "hero_size": "small",
+        "text_size": "medium",
+        "title": "3DO Parts",
+        "text": "<p>3D printed replacement parts for 3DO consoles<\/p>",
+        "button_label": "VIEW",
+        "button_link": "shopify:\/\/collections\/3do-parts"
       }
     },
-    "image-bar": {
-      "type": "image-bar",
-      "blocks": {
-        "image-bar-0": {
-          "type": "image",
-          "settings": {
-          }
-        },
-        "image-bar-1": {
-          "type": "image",
-          "settings": {
-          }
-        },
-        "image-bar-2": {
-          "type": "image",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "image-bar-0",
-        "image-bar-1",
-        "image-bar-2"
-      ],
+    "163994797293dac86b": {
+      "type": "hero",
       "settings": {
+        "image": "shopify:\/\/shop_images\/E30BA03E-8EAA-4859-ADE9-7982DCE1BFAB.jpg",
+        "alignment": "bottom",
+        "hero_layout": "full_width",
+        "hero_size": "small",
+        "text_size": "medium",
+        "title": "Controller Shirt",
+        "text": "<p>Get a shirt and support my work.<\/p>",
+        "button_label": "BUY NOW",
+        "button_link": "shopify:\/\/products\/shirt"
       }
     }
   },
   "order": [
     "hero-1",
-    "feature-row",
-    "feature-columns",
-    "collection",
-    "hero-2",
-    "quotes",
-    "image-bar"
+    "1639947837a0d20b73",
+    "1639947974c204bf45",
+    "163994797293dac86b"
   ]
 }
