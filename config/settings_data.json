@@ -125,6 +125,20 @@
               "menu": "footer"
             }
           },
+          "3ab73b0b-ba41-41e3-a4b7-2929ac9d26b1": {
+            "type": "link_list",
+            "settings": {
+              "title": "‎",
+              "menu": "policy-menu"
+            }
+          },
+          "93c23249-c661-470d-b413-74a72f856715": {
+            "type": "link_list",
+            "settings": {
+              "title": "Resources",
+              "menu": "resources-menu"
+            }
+          },
           "footer-1": {
             "type": "newsletter",
             "settings": {
@@ -134,6 +148,8 @@
         },
         "block_order": [
           "footer-0",
+          "3ab73b0b-ba41-41e3-a4b7-2929ac9d26b1",
+          "93c23249-c661-470d-b413-74a72f856715",
           "footer-1"
         ],
         "settings": {
