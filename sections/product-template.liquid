@@ -138,7 +138,6 @@
         
         {% for block in section.blocks %}
           {% case block.type %}
-          <div  style="display: none;">
             {% when '@app' %}
               {% render block %}
             {% when 'title' %}
@@ -230,6 +229,7 @@
                       aria-label="{% unless current_variant.available %}{{ 'products.product.sold_out' | t }}{% else %}{{ 'products.product.add_to_cart' | t }}{% endunless %}"
                       class="btn product-form__cart-submit{% if section.settings.enable_payment_button and product.selling_plan_groups == empty %} btn--secondary-accent{% endif %}"
                       {% if settings.enable_ajax %}aria-haspopup="dialog"{% endif %}
+                      {% if section.settings.hide_cart_buttons %}style="display:none;"{%- endif -%}
                       data-add-to-cart>
                       <span data-add-to-cart-text>
                         {% unless current_variant.available %}
@@ -258,7 +258,6 @@
               {% endif %}
             {%- when 'custom_liquid' -%}
               {{ block.settings.custom_liquid }}
-	       </div>
           {% endcase %}
         {% endfor %}
       </div>
