@@ -7953,7 +7953,7 @@ theme.Product = (function() {
       this.selectors.errorMessageWrapper
     );
     this.productForm = container.querySelector(this.selectors.productForm);
-    this.addToCart = container.querySelector(this.selectors.addToCart);
+    this.addToCart = container.querySelector(this.selectors.addToCart) || container;
     this.addToCartText = this.addToCart.querySelector(
       this.selectors.addToCartText
     );
