@@ -13,6 +13,11 @@
           "settings": {
           }
         },
+        "buttons": {
+          "type": "buttons",
+          "settings": {
+          }
+        },
         "3d2b2af5-887e-4609-85cd-5a6f1a0da01b": {
           "type": "shopify:\/\/apps\/preproduct\/blocks\/preproduct_block\/2762c018-a41c-4de1-8397-e1a2010a74fa",
           "settings": {
