@@ -930,8 +930,8 @@
         "featured_product": {
           "label": "Product"
         },
-        "show_quantity_selector": {
-          "label": "Show quantity selector"
+        "hide_cart_buttons": {
+          "label": "Hide add to cart buttons"
         },
         "show_vendor": {
           "label": "Show vendor"
@@ -1462,6 +1462,9 @@
     "product-template": {
       "name": "Product pages",
       "settings": {
+        "hide_cart_buttons": {
+          "label": "Hide add to cart buttons"
+        },
         "show_quantity_selector": {
           "label": "Show quantity selector"
         },

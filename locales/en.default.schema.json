@@ -1462,6 +1462,9 @@
     "product-template": {
       "name": "Product pages",
       "settings": {
+        "hide_cart_buttons": {
+          "label": "Hide add to cart buttons"
+        },
         "show_quantity_selector": {
           "label": "Show quantity selector"
         },
