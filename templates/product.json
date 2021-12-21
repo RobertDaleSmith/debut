@@ -43,7 +43,7 @@
         "share"
       ],
       "settings": {
-        "show_quantity_selector": false,
+        "show_quantity_selector": true,
         "show_vendor": false,
         "enable_payment_button": true,
         "show_share_buttons": true,
