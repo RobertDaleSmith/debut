@@ -28,6 +28,19 @@
         "button_link": "shopify:\/\/products\/3docontrollerreset"
       }
     },
+    "164610567662c025c6": {
+      "type": "hero",
+      "settings": {
+        "alignment": "center",
+        "hero_layout": "full_width",
+        "hero_size": "small",
+        "text_size": "medium",
+        "title": "CD-i Controller Splitter",
+        "text": "<p>Connect two controllers to CD-i consoles with only a single controller port.<\/p>",
+        "button_label": "BUY NOW",
+        "button_link": "shopify:\/\/products\/cd-i-splitter"
+      }
+    },
     "1639947974c204bf45": {
       "type": "hero",
       "settings": {
@@ -60,6 +73,7 @@
   "order": [
     "hero-1",
     "1639947837a0d20b73",
+    "164610567662c025c6",
     "1639947974c204bf45",
     "163994797293dac86b"
   ]
