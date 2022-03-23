@@ -34,10 +34,10 @@
         "image": "shopify:\/\/shop_images\/7A739742-6004-4CC4-8B7A-597F07AA4055.jpg",
         "alignment": "center",
         "hero_layout": "full_width",
-        "hero_size": "medium",
+        "hero_size": "small",
         "text_size": "medium",
         "title": "USB-2-PCE",
-        "text": "<p>Use wireless 8BitDo controllers on real hardware<\/p>",
+        "text": "<p>Use wireless 8BitDo controllers on original consoles<\/p>",
         "button_label": "Pre order",
         "button_link": "shopify:\/\/products\/usb-2-pce"
       }
@@ -51,7 +51,7 @@
         "hero_size": "small",
         "text_size": "medium",
         "title": "CD-i Controller Splitter",
-        "text": "<p>Connect two controllers to CD-i consoles with only a single controller port.<\/p>",
+        "text": "<p>Connect two controllers to CD-i consoles with only a single controller port<\/p>",
         "button_label": "BUY NOW",
         "button_link": "shopify:\/\/products\/cd-i-splitter"
       }
