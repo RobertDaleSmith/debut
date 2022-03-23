@@ -28,6 +28,20 @@
         "button_link": "shopify:\/\/products\/3docontrollerreset"
       }
     },
+    "164807089949b8a9e8": {
+      "type": "hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/7A739742-6004-4CC4-8B7A-597F07AA4055.jpg",
+        "alignment": "bottom",
+        "hero_layout": "full_width",
+        "hero_size": "medium",
+        "text_size": "medium",
+        "title": "USB-2-PCE",
+        "text": "<p>Use wireless 8BitDo controllers on real hardware<\/p>",
+        "button_label": "Pre order",
+        "button_link": "shopify:\/\/products\/usb-2-pce"
+      }
+    },
     "164610567662c025c6": {
       "type": "hero",
       "settings": {
@@ -74,6 +88,7 @@
   "order": [
     "hero-1",
     "1639947837a0d20b73",
+    "164807089949b8a9e8",
     "164610567662c025c6",
     "1639947974c204bf45",
     "163994797293dac86b"
