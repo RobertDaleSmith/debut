@@ -32,7 +32,7 @@
       "type": "hero",
       "settings": {
         "image": "shopify:\/\/shop_images\/7A739742-6004-4CC4-8B7A-597F07AA4055.jpg",
-        "alignment": "bottom",
+        "alignment": "center",
         "hero_layout": "full_width",
         "hero_size": "medium",
         "text_size": "medium",
