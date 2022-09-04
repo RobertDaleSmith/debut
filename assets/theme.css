@@ -3708,7 +3708,9 @@ hr {
       margin: 0 auto; } }
 
 .site-header__logo-image img {
-  width: 100%; }
+  width: 100%;
+  background-color: transparent !important;
+}
 
 .site-header__logo-image--centered img {
   margin: 0 auto; }
