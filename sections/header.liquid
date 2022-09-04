@@ -3,14 +3,12 @@
     {% if section.settings.logo != blank %}
       .site-header__logo-image {
         max-width: {{ section.settings.logo_max_width | escape }}px;
-        background: transparent !important;
       }
     {% endif %}
 
     {% if section.settings.align_logo == 'left' %}
       .site-header__logo-image {
         margin: 0;
-        background: transparent !important;
       }
     {% endif %}
   </style>
