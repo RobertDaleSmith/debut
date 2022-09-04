@@ -3705,7 +3705,10 @@ hr {
   display: block; }
   @media only screen and (min-width: 750px) {
     .site-header__logo-image {
-      margin: 0 auto; } }
+      background-color: transparent !important;
+      margin: 0 auto;
+    }
+  }
 
 .site-header__logo-image img {
   width: 100%; }
