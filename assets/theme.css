@@ -3709,7 +3709,7 @@ hr {
 
 .site-header__logo-image img {
   width: 100%;
-  background-color: transparent !important;
+  background-color: #fff !important;
 }
 
 .site-header__logo-image--centered img {
