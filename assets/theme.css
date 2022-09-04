@@ -3714,6 +3714,9 @@ hr {
   margin: 0 auto; }
 
 .site-header__logo img {
+  background: #ffffff; }
+
+.site-header__logo img {
   display: block; }
 
 .site-header__icons {
