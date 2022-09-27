@@ -14,6 +14,20 @@
         "button_link": "shopify:\/\/products\/usb-2-pce"
       }
     },
+    "163994797293dac86b": {
+      "type": "hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/469DC509-83EE-4AF0-A3D2-70214CEDCF52.jpg",
+        "alignment": "bottom",
+        "hero_layout": "full_width",
+        "hero_size": "small",
+        "text_size": "medium",
+        "title": "PCE-2-TG16",
+        "text": "<p>Use PCEngine controllers on TurboGrafx-16 consoles<\/p>",
+        "button_label": "BUY NOW",
+        "button_link": "shopify:\/\/products\/pce2tg16"
+      }
+    },
     "hero-1": {
       "type": "hero",
       "settings": {
@@ -69,28 +83,14 @@
         "button_label": "VIEW COLLECTION",
         "button_link": "shopify:\/\/collections\/3do-parts"
       }
-    },
-    "163994797293dac86b": {
-      "type": "hero",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/E30BA03E-8EAA-4859-ADE9-7982DCE1BFAB.jpg",
-        "alignment": "bottom",
-        "hero_layout": "full_width",
-        "hero_size": "small",
-        "text_size": "medium",
-        "title": "Controller Shirt",
-        "text": "<p>Get a shirt and support my work.<\/p>",
-        "button_label": "BUY NOW",
-        "button_link": "shopify:\/\/products\/shirt"
-      }
     }
   },
   "order": [
     "164807089949b8a9e8",
+    "163994797293dac86b",
     "hero-1",
     "1639947837a0d20b73",
     "164610567662c025c6",
-    "1639947974c204bf45",
-    "163994797293dac86b"
+    "1639947974c204bf45"
   ]
 }
