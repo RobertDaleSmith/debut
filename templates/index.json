@@ -18,7 +18,7 @@
       "type": "hero",
       "settings": {
         "image": "shopify:\/\/shop_images\/469DC509-83EE-4AF0-A3D2-70214CEDCF52.jpg",
-        "alignment": "bottom",
+        "alignment": "center",
         "hero_layout": "full_width",
         "hero_size": "small",
         "text_size": "medium",
