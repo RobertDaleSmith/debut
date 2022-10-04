@@ -21,7 +21,7 @@
         "e3275c77-037f-4990-bf6e-e03fd7ed8d60": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% if product.metafields.preproduct.preorder %}\n    <div id=\"pre-orders-timeout\">Pre-order button loading...<\/div>\n{% endif %}"
+            "custom_liquid": "{% if product.metafields.preproduct.preorder %}\n    <div id=\"pre-orders-timeout\">Pre-order button loading...<\/div>\n<script>\nwindow.addEventListener('ppJustLaunched', () => {\n    console.log(\"hello!\"); document.querySelector(\"#pre-orders-timeout\").style.display = \"none\";\n}, false);\n<\/script>\n{% endif %}"
           }
         },
         "3d2b2af5-887e-4609-85cd-5a6f1a0da01b": {
@@ -43,12 +43,6 @@
           "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
           "settings": {
           }
-        },
-        "9ab6386a-f808-4251-8c36-2f379e52564a": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<script>\nwindow.addEventListener('ppJustLaunched', () => {\n    console.log(\"hello!\"); document.querySelector(\"#pre-orders-timeout\").display = \"none\";\n}, false);\n<\/script>"
-          }
         }
       },
       "block_order": [
@@ -59,8 +53,7 @@
         "3d2b2af5-887e-4609-85cd-5a6f1a0da01b",
         "description",
         "share",
-        "b8028305-be74-4371-b14b-f557635a4e93",
-        "9ab6386a-f808-4251-8c36-2f379e52564a"
+        "b8028305-be74-4371-b14b-f557635a4e93"
       ],
       "settings": {
         "hide_cart_buttons": true,
