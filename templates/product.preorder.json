@@ -18,6 +18,12 @@
           "settings": {
           }
         },
+        "e3275c77-037f-4990-bf6e-e03fd7ed8d60": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% if product.metafields.preproduct.preorder %}\n    <div id=\"pre-orders-timeout\">Pre-order button loading...<\/div>\n<script>\nwindow.addEventListener('ppJustLaunched', () => {\n    document.querySelector(`#pre-orders-timeout).display = `none`;\n}, false);\n<\/script>\n{% endif %}"
+          }
+        },
         "3d2b2af5-887e-4609-85cd-5a6f1a0da01b": {
           "type": "shopify:\/\/apps\/preproduct-next-gen-pre-order\/blocks\/preproduct_block\/2762c018-a41c-4de1-8397-e1a2010a74fa",
           "settings": {
@@ -43,6 +49,7 @@
         "title",
         "price",
         "buttons",
+        "e3275c77-037f-4990-bf6e-e03fd7ed8d60",
         "3d2b2af5-887e-4609-85cd-5a6f1a0da01b",
         "description",
         "share",
