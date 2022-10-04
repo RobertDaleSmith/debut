@@ -47,7 +47,7 @@
         "9ab6386a-f808-4251-8c36-2f379e52564a": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<script>\nwindow.addEventListener('ppJustLaunched', () => {\n    console.log(\"hello!\"); document.querySelector(`#pre-orders-timeout).display = `none`;\n}, false);\n<\/script>"
+            "custom_liquid": "<script>\nwindow.addEventListener('ppJustLaunched', () => {\n    console.log(\"hello!\"); document.querySelector(\"#pre-orders-timeout\").display = \"none\";\n}, false);\n<\/script>"
           }
         }
       },
