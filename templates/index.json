@@ -1,5 +1,16 @@
 {
   "sections": {
+    "a1d11614-afb3-49d7-a6bd-03882bdc9f83": {
+      "type": "collection",
+      "settings": {
+        "title": "",
+        "collection": "all-products",
+        "grid": 4,
+        "rows": 3,
+        "show_vendor": false,
+        "show_view_all": false
+      }
+    },
     "164807089949b8a9e8": {
       "type": "hero",
       "disabled": true,
@@ -89,26 +100,15 @@
         "button_label": "VIEW COLLECTION",
         "button_link": "shopify:\/\/collections\/3do-parts"
       }
-    },
-    "a1d11614-afb3-49d7-a6bd-03882bdc9f83": {
-      "type": "collection",
-      "settings": {
-        "title": "",
-        "collection": "all-products",
-        "grid": 4,
-        "rows": 3,
-        "show_vendor": false,
-        "show_view_all": true
-      }
     }
   },
   "order": [
+    "a1d11614-afb3-49d7-a6bd-03882bdc9f83",
     "164807089949b8a9e8",
     "163994797293dac86b",
     "hero-1",
     "1639947837a0d20b73",
     "164610567662c025c6",
-    "1639947974c204bf45",
-    "a1d11614-afb3-49d7-a6bd-03882bdc9f83"
+    "1639947974c204bf45"
   ]
 }
