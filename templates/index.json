@@ -4,7 +4,7 @@
       "type": "collection",
       "settings": {
         "title": "",
-        "collection": "all-products",
+        "collection": "products",
         "grid": 4,
         "rows": 3,
         "show_vendor": false,
