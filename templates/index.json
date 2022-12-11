@@ -2,6 +2,7 @@
   "sections": {
     "164807089949b8a9e8": {
       "type": "hero",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/A66C6E42-6DA9-4607-A215-5ADA8362249A.jpg",
         "alignment": "center",
@@ -16,6 +17,7 @@
     },
     "163994797293dac86b": {
       "type": "hero",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/469DC509-83EE-4AF0-A3D2-70214CEDCF52.jpg",
         "alignment": "center",
@@ -30,6 +32,7 @@
     },
     "hero-1": {
       "type": "hero",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/pushnami-site-icon_ae6b5692-514b-4838-8c88-f0ac523f3fff.png",
         "alignment": "center",
@@ -44,6 +47,7 @@
     },
     "1639947837a0d20b73": {
       "type": "hero",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_1975_dark_3d9e82ca-f86a-4749-94f2-1bee29176b6f.png",
         "alignment": "bottom",
@@ -58,6 +62,7 @@
     },
     "164610567662c025c6": {
       "type": "hero",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_2784.jpg",
         "alignment": "center",
@@ -72,6 +77,7 @@
     },
     "1639947974c204bf45": {
       "type": "hero",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_2244.jpg",
         "alignment": "center",
@@ -83,6 +89,17 @@
         "button_label": "VIEW COLLECTION",
         "button_link": "shopify:\/\/collections\/3do-parts"
       }
+    },
+    "a1d11614-afb3-49d7-a6bd-03882bdc9f83": {
+      "type": "collection",
+      "settings": {
+        "title": "",
+        "collection": "all-products",
+        "grid": 4,
+        "rows": 3,
+        "show_vendor": false,
+        "show_view_all": true
+      }
     }
   },
   "order": [
@@ -91,6 +108,7 @@
     "hero-1",
     "1639947837a0d20b73",
     "164610567662c025c6",
-    "1639947974c204bf45"
+    "1639947974c204bf45",
+    "a1d11614-afb3-49d7-a6bd-03882bdc9f83"
   ]
 }

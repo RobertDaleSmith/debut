@@ -4,6 +4,7 @@
     "share_pinterest": false,
     "social_twitter_link": "https:\/\/twitter.com\/RobertDaleSmith",
     "favicon": "shopify:\/\/shop_images\/ca_logo_icon_ed6f6f91-83d7-4413-bf82-fe998fa2b674.png",
+    "currency_code_enabled": true,
     "checkout_logo_image": "shopify:\/\/shop_images\/ca_logo_26ee8bc6-00a0-412a-bc1f-00cd7451425c.png",
     "sections": {
       "header": {
@@ -185,6 +186,8 @@
         "header": {
           "type": "header",
           "settings": {
+            "color_bg": "#3a3a3a",
+            "color_text": "#ffffff"
           }
         },
         "hero-1": {
@@ -313,7 +316,9 @@
             "footer-1"
           ],
           "settings": {
-            "show_payment_icons": true
+            "show_payment_icons": true,
+            "color_footer_bg": "#f6f6f6",
+            "color_footer_text": "#333232"
           }
         }
       }
