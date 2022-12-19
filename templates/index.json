@@ -6,7 +6,7 @@
         "title": "",
         "collection": "products",
         "grid": 3,
-        "rows": 3,
+        "rows": 5,
         "show_vendor": false,
         "show_view_all": false
       }
