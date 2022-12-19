@@ -5,7 +5,7 @@
       "settings": {
         "title": "",
         "collection": "products",
-        "grid": 3,
+        "grid": 4,
         "rows": 5,
         "show_vendor": false,
         "show_view_all": false
