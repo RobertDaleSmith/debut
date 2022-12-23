@@ -3,10 +3,10 @@
     "f52e16d0-943b-4f27-8bdc-4fdfe64541fd": {
       "type": "hero",
       "settings": {
-        "image": "shopify:\/\/shop_images\/305081442_5806676179355819_2536700275559753692_n.jpg",
-        "alignment": "top",
+        "image": "shopify:\/\/shop_images\/167442220_308861643994664_2977750507427488346_n.jpg",
+        "alignment": "center",
         "hero_layout": "fixed_width",
-        "hero_size": "small",
+        "hero_size": "x-small",
         "text_size": "medium",
         "title": "",
         "text": "",
