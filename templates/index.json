@@ -100,6 +100,17 @@
         "button_label": "VIEW COLLECTION",
         "button_link": "shopify:\/\/collections\/3do-parts"
       }
+    },
+    "2488df35-966c-4298-bc72-ce217bc77a06": {
+      "type": "collection",
+      "settings": {
+        "title": "In Development",
+        "collection": "in-development",
+        "grid": 3,
+        "rows": 2,
+        "show_vendor": false,
+        "show_view_all": false
+      }
     }
   },
   "order": [
@@ -109,6 +120,7 @@
     "hero-1",
     "1639947837a0d20b73",
     "164610567662c025c6",
-    "1639947974c204bf45"
+    "1639947974c204bf45",
+    "2488df35-966c-4298-bc72-ce217bc77a06"
   ]
 }
