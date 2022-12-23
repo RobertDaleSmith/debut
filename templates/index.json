@@ -1,5 +1,19 @@
 {
   "sections": {
+    "f52e16d0-943b-4f27-8bdc-4fdfe64541fd": {
+      "type": "hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_1580.jpg",
+        "alignment": "center",
+        "hero_layout": "full_width",
+        "hero_size": "x-small",
+        "text_size": "medium",
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
     "a1d11614-afb3-49d7-a6bd-03882bdc9f83": {
       "type": "collection",
       "settings": {
@@ -7,6 +21,17 @@
         "collection": "products",
         "grid": 4,
         "rows": 5,
+        "show_vendor": false,
+        "show_view_all": false
+      }
+    },
+    "2488df35-966c-4298-bc72-ce217bc77a06": {
+      "type": "collection",
+      "settings": {
+        "title": "coming soon",
+        "collection": "in-development",
+        "grid": 3,
+        "rows": 2,
         "show_vendor": false,
         "show_view_all": false
       }
@@ -100,27 +125,17 @@
         "button_label": "VIEW COLLECTION",
         "button_link": "shopify:\/\/collections\/3do-parts"
       }
-    },
-    "2488df35-966c-4298-bc72-ce217bc77a06": {
-      "type": "collection",
-      "settings": {
-        "title": "coming soon",
-        "collection": "in-development",
-        "grid": 3,
-        "rows": 2,
-        "show_vendor": false,
-        "show_view_all": false
-      }
     }
   },
   "order": [
+    "f52e16d0-943b-4f27-8bdc-4fdfe64541fd",
     "a1d11614-afb3-49d7-a6bd-03882bdc9f83",
+    "2488df35-966c-4298-bc72-ce217bc77a06",
     "164807089949b8a9e8",
     "163994797293dac86b",
     "hero-1",
     "1639947837a0d20b73",
     "164610567662c025c6",
-    "1639947974c204bf45",
-    "2488df35-966c-4298-bc72-ce217bc77a06"
+    "1639947974c204bf45"
   ]
 }
