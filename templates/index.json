@@ -5,8 +5,8 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_1580.jpg",
         "alignment": "center",
-        "hero_layout": "full_width",
-        "hero_size": "x-small",
+        "hero_layout": "fixed_width",
+        "hero_size": "small",
         "text_size": "medium",
         "title": "",
         "text": "",
