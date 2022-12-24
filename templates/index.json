@@ -30,7 +30,7 @@
       "type": "collection",
       "settings": {
         "title": "Replacement Parts",
-        "collection": "3do-parts",
+        "collection": "parts",
         "grid": 4,
         "rows": 2,
         "show_vendor": false,
