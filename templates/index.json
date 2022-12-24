@@ -2,6 +2,7 @@
   "sections": {
     "f52e16d0-943b-4f27-8bdc-4fdfe64541fd": {
       "type": "hero",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/167442220_308861643994664_2977750507427488346_n.jpg",
         "alignment": "center",
@@ -36,96 +37,6 @@
         "show_view_all": false
       }
     },
-    "164807089949b8a9e8": {
-      "type": "hero",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/A66C6E42-6DA9-4607-A215-5ADA8362249A.jpg",
-        "alignment": "center",
-        "hero_layout": "full_width",
-        "hero_size": "small",
-        "text_size": "medium",
-        "title": "USB-2-PCE",
-        "text": "<p>Use wireless 8BitDo controllers on original PC Engine consoles<\/p>",
-        "button_label": "BUY NOW",
-        "button_link": "shopify:\/\/products\/usb-2-pce"
-      }
-    },
-    "163994797293dac86b": {
-      "type": "hero",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/469DC509-83EE-4AF0-A3D2-70214CEDCF52.jpg",
-        "alignment": "center",
-        "hero_layout": "full_width",
-        "hero_size": "small",
-        "text_size": "medium",
-        "title": "PCE-2-TG16",
-        "text": "<p>Use PC Engine controllers on TurboGrafx-16 consoles<\/p>",
-        "button_label": "BUY NOW",
-        "button_link": "shopify:\/\/products\/pce2tg16"
-      }
-    },
-    "hero-1": {
-      "type": "hero",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/pushnami-site-icon_ae6b5692-514b-4838-8c88-f0ac523f3fff.png",
-        "alignment": "center",
-        "hero_layout": "full_width",
-        "hero_size": "small",
-        "text_size": "medium",
-        "title": "SNES-2-3DO",
-        "text": "<p>Use Super Nintendo controllers and mice on 3DO consoles<\/p>",
-        "button_label": "JOIN WAITLIST",
-        "button_link": "shopify:\/\/products\/snes23do"
-      }
-    },
-    "1639947837a0d20b73": {
-      "type": "hero",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_1975_dark_3d9e82ca-f86a-4749-94f2-1bee29176b6f.png",
-        "alignment": "bottom",
-        "hero_layout": "full_width",
-        "hero_size": "small",
-        "text_size": "medium",
-        "title": "3DOControllerReset",
-        "text": "<p>A simple in-game reset mod kit for 3DO consoles<\/p>",
-        "button_label": "Buy Now",
-        "button_link": "shopify:\/\/products\/3docontrollerreset"
-      }
-    },
-    "164610567662c025c6": {
-      "type": "hero",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_2784.jpg",
-        "alignment": "center",
-        "hero_layout": "full_width",
-        "hero_size": "small",
-        "text_size": "medium",
-        "title": "CD-i Splitter",
-        "text": "<p>Connect two controllers to CD-i consoles with only a single controller port<\/p>",
-        "button_label": "BUY NOW",
-        "button_link": "shopify:\/\/products\/cd-i-splitter"
-      }
-    },
-    "1639947974c204bf45": {
-      "type": "hero",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_2244.jpg",
-        "alignment": "center",
-        "hero_layout": "full_width",
-        "hero_size": "small",
-        "text_size": "medium",
-        "title": "3DO Parts",
-        "text": "<p>3D printed replacement parts for 3DO consoles<\/p>",
-        "button_label": "VIEW COLLECTION",
-        "button_link": "shopify:\/\/collections\/3do-parts"
-      }
-    },
     "055c27fb-e896-4b05-9c13-9e1295d928ac": {
       "type": "collection",
       "settings": {
@@ -142,12 +53,6 @@
     "f52e16d0-943b-4f27-8bdc-4fdfe64541fd",
     "a1d11614-afb3-49d7-a6bd-03882bdc9f83",
     "2488df35-966c-4298-bc72-ce217bc77a06",
-    "164807089949b8a9e8",
-    "163994797293dac86b",
-    "hero-1",
-    "1639947837a0d20b73",
-    "164610567662c025c6",
-    "1639947974c204bf45",
     "055c27fb-e896-4b05-9c13-9e1295d928ac"
   ]
 }
