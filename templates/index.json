@@ -125,6 +125,17 @@
         "button_label": "VIEW COLLECTION",
         "button_link": "shopify:\/\/collections\/3do-parts"
       }
+    },
+    "055c27fb-e896-4b05-9c13-9e1295d928ac": {
+      "type": "collection",
+      "settings": {
+        "title": "Replacement Parts",
+        "collection": "3do-parts",
+        "grid": 4,
+        "rows": 2,
+        "show_vendor": false,
+        "show_view_all": false
+      }
     }
   },
   "order": [
@@ -136,6 +147,7 @@
     "hero-1",
     "1639947837a0d20b73",
     "164610567662c025c6",
-    "1639947974c204bf45"
+    "1639947974c204bf45",
+    "055c27fb-e896-4b05-9c13-9e1295d928ac"
   ]
 }
