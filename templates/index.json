@@ -19,7 +19,7 @@
       "type": "collection",
       "settings": {
         "title": "Adapters",
-        "collection": "products",
+        "collection": "adapters",
         "grid": 4,
         "rows": 5,
         "show_vendor": false,
