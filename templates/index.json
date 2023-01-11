@@ -19,7 +19,7 @@
       "settings": {
         "title": "In Development",
         "collection": "in-development",
-        "grid": 3,
+        "grid": 2,
         "rows": 1,
         "show_vendor": false,
         "show_view_all": false
