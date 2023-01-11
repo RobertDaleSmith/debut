@@ -14,17 +14,6 @@
         "button_link": ""
       }
     },
-    "2488df35-966c-4298-bc72-ce217bc77a06": {
-      "type": "collection",
-      "settings": {
-        "title": "Preorder - Coming Soon",
-        "collection": "in-development",
-        "grid": 2,
-        "rows": 1,
-        "show_vendor": false,
-        "show_view_all": false
-      }
-    },
     "a1d11614-afb3-49d7-a6bd-03882bdc9f83": {
       "type": "collection",
       "settings": {
@@ -32,6 +21,17 @@
         "collection": "adapters",
         "grid": 3,
         "rows": 5,
+        "show_vendor": false,
+        "show_view_all": false
+      }
+    },
+    "2488df35-966c-4298-bc72-ce217bc77a06": {
+      "type": "collection",
+      "settings": {
+        "title": "Preorder - Coming Soon",
+        "collection": "in-development",
+        "grid": 2,
+        "rows": 1,
         "show_vendor": false,
         "show_view_all": false
       }
@@ -50,8 +50,8 @@
   },
   "order": [
     "f52e16d0-943b-4f27-8bdc-4fdfe64541fd",
-    "2488df35-966c-4298-bc72-ce217bc77a06",
     "a1d11614-afb3-49d7-a6bd-03882bdc9f83",
+    "2488df35-966c-4298-bc72-ce217bc77a06",
     "055c27fb-e896-4b05-9c13-9e1295d928ac"
   ]
 }
