@@ -2,15 +2,14 @@
   "sections": {
     "f52e16d0-943b-4f27-8bdc-4fdfe64541fd": {
       "type": "hero",
-      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/167442220_308861643994664_2977750507427488346_n.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_5081.jpg",
         "alignment": "center",
         "hero_layout": "fixed_width",
         "hero_size": "x-small",
         "text_size": "medium",
-        "title": "Adapting Controllers",
-        "text": "<p>Modern accessories for retro consoles<\/p>",
+        "title": "Adapter of Controllers",
+        "text": "<p>Creating modern accessories for retro video game consoles.<\/p>",
         "button_label": "",
         "button_link": ""
       }
