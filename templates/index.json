@@ -52,7 +52,7 @@
       "settings": {
         "title": "Limited Runs",
         "collection": "limited",
-        "grid": 3,
+        "grid": 4,
         "rows": 2,
         "show_vendor": false,
         "show_view_all": false
