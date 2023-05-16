@@ -171,6 +171,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "14710812113501315912": {
+        "type": "shopify:\/\/apps\/order-limit-quantity-purchase\/blocks\/app-embed\/143c1e59-4c01-4de6-ad3e-90b86ada592d",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
