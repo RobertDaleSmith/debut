@@ -1,0 +1,23 @@
+{
+  "sections": {
+    "forms": {
+      "type": "apps",
+      "blocks": {
+        "82a180f2-197b-4599-9dd2-e51ab0e85258": {
+          "type": "shopify:\/\/apps\/forms\/blocks\/inline\/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "18738"
+          }
+        }
+      },
+      "block_order": [
+        "82a180f2-197b-4599-9dd2-e51ab0e85258"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "forms"
+  ]
+}
