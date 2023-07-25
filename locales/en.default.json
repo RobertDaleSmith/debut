@@ -41,11 +41,13 @@
     "social": {
       "share_on_facebook": "Share",
       "share_on_twitter": "Tweet",
+      "share_on_tiktok": "Tiktok",
       "share_on_discord": "Discord",
       "share_on_pinterest": "Pin it",
       "alt_text": {
         "share_on_facebook": "Share on Facebook",
         "share_on_twitter": "Tweet on Twitter",
+        "share_on_tiktok": "Tweet on Tiktok",
         "share_on_discord": "Tweet on Discord",
         "share_on_pinterest": "Pin on Pinterest"
       }
