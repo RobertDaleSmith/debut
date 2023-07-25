@@ -8,6 +8,12 @@
           "settings": {
           }
         },
+        "e3275c77-037f-4990-bf6e-e03fd7ed8d60": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% if product.metafields.preproduct.preorder %}\n    <div id=\"pre-orders-timeout\" style=\"padding: 10px 0px; height: 190px;\">Pre-order button loading...<br><br>If it does not load shortly, then let me know in the chat.<\/div>\n<script>\nwindow.addEventListener('ppJustLaunched', () => {\n    console.log(\"hello!\"); document.querySelector(\"#pre-orders-timeout\").style.display = \"none\";\n}, false);\n<\/script>\n{% endif %}"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -16,12 +22,6 @@
         "buttons": {
           "type": "buttons",
           "settings": {
-          }
-        },
-        "e3275c77-037f-4990-bf6e-e03fd7ed8d60": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "{% if product.metafields.preproduct.preorder %}\n    <div id=\"pre-orders-timeout\" style=\"padding: 10px 0px; height: 190px;\">Pre-order button loading...<br><br>If it does not load shortly, then let me know in the chat.<\/div>\n<script>\nwindow.addEventListener('ppJustLaunched', () => {\n    console.log(\"hello!\"); document.querySelector(\"#pre-orders-timeout\").style.display = \"none\";\n}, false);\n<\/script>\n{% endif %}"
           }
         },
         "3d2b2af5-887e-4609-85cd-5a6f1a0da01b": {
@@ -47,9 +47,9 @@
       },
       "block_order": [
         "title",
+        "e3275c77-037f-4990-bf6e-e03fd7ed8d60",
         "price",
         "buttons",
-        "e3275c77-037f-4990-bf6e-e03fd7ed8d60",
         "3d2b2af5-887e-4609-85cd-5a6f1a0da01b",
         "description",
         "share",
