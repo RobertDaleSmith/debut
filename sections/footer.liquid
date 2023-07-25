@@ -26,7 +26,7 @@
     assign show_selectors = true
   endif
 
-  if settings.social_twitter_link != blank or settings.social_discord_link != blank or settings.social_facebook_link != blank or settings.social_pinterest_link != blank or settings.social_instagram_link != blank or settings.social_tumblr_link != blank or settings.social_snapchat_link != blank or settings.social_youtube_link != blank or settings.social_vimeo_link != blank or request.page_type == 'article' or request.page_type == 'blog'
+  if settings.social_twitter_link != blank or settings.social_tiktok_link != blank or settings.social_discord_link != blank or settings.social_facebook_link != blank or settings.social_pinterest_link != blank or settings.social_instagram_link != blank or settings.social_tumblr_link != blank or settings.social_snapchat_link != blank or settings.social_youtube_link != blank or settings.social_vimeo_link != blank or request.page_type == 'article' or request.page_type == 'blog'
     assign social_icons = true
   endif
 
@@ -226,7 +226,7 @@
 
   <hr class="site-footer__hr">
 
-  {%- assign socials = "Facebook Twitter Discord Pinterest Instagram Tumblr Snapchat YouTube Vimeo" | split: ' ' -%}
+  {%- assign socials = "Facebook Twitter Tiktok Discord Pinterest Instagram Tumblr Snapchat YouTube Vimeo" | split: ' ' -%}
 
   <div class="page-width">
     <div class="grid grid--no-gutters small--text-center grid--footer-float-right">
