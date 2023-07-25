@@ -4,8 +4,8 @@
     "theme_name": "Debut",
     "theme_author": "Shopify",
     "theme_version": "17.14.1",
-    "theme_documentation_url": "https://help.shopify.com/manual/using-themes/themes-by-shopify/debut",
-    "theme_support_url": "https://support.shopify.com/"
+    "theme_documentation_url": "https:\/\/help.shopify.com\/manual\/using-themes\/themes-by-shopify\/debut",
+    "theme_support_url": "https:\/\/support.shopify.com\/"
   },
   {
     "name": "t:settings_schema.colors.name",
@@ -214,6 +214,12 @@
       },
       {
         "type": "checkbox",
+        "id": "share_discord",
+        "label": "t:settings_schema.social-media.settings.share_discord.label",
+        "default": true
+      },
+      {
+        "type": "checkbox",
         "id": "share_pinterest",
         "label": "t:settings_schema.social-media.settings.share_pinterest.label",
         "default": true
@@ -227,6 +233,12 @@
         "id": "social_twitter_link",
         "label": "t:settings_schema.social-media.settings.social_twitter_link.label",
         "info": "t:settings_schema.social-media.settings.social_twitter_link.info"
+      },
+      {
+        "type": "text",
+        "id": "social_discord_link",
+        "label": "t:settings_schema.social-media.settings.social_discord_link.label",
+        "info": "t:settings_schema.social-media.settings.social_discord_link.info"
       },
       {
         "type": "text",
