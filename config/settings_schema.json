@@ -215,7 +215,7 @@
       {
         "type": "checkbox",
         "id": "share_tiktok",
-        "label": "t:settings_schema.social-media.settings.share_twitter.label",
+        "label": "t:settings_schema.social-media.settings.share_tiktok.label",
         "default": true
       },
       {
@@ -239,6 +239,12 @@
         "id": "social_twitter_link",
         "label": "t:settings_schema.social-media.settings.social_twitter_link.label",
         "info": "t:settings_schema.social-media.settings.social_twitter_link.info"
+      },
+      {
+        "type": "text",
+        "id": "social_tiktok_link",
+        "label": "t:settings_schema.social-media.settings.social_tiktok_link.label",
+        "info": "t:settings_schema.social-media.settings.social_tiktok_link.info"
       },
       {
         "type": "text",
