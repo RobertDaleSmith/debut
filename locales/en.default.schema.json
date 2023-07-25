@@ -125,8 +125,12 @@
           "content": "Social accounts"
         },
         "social_twitter_link": {
+          "label": "Twitter",
+          "info": "https:\/\/twitter.com\/shopify"
+        },
+        "social_discord_link": {
           "label": "Discord",
-          "info": "https:\/\/dicord.com\/shopify"
+          "info": "https:\/\/discord.com\/shopify"
         },
         "social_facebook_link": {
           "label": "Facebook",
