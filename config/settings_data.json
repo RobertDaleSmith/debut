@@ -136,6 +136,7 @@
           },
           "93c23249-c661-470d-b413-74a72f856715": {
             "type": "link_list",
+            "disabled": true,
             "settings": {
               "title": "‎",
               "menu": "resources-menu"
