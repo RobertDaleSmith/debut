@@ -1327,8 +1327,8 @@ symbol.icon:not(.icon--full-color) .icon-error__symbol {
   height: 23px; }
   @media only screen and (min-width: 750px) {
     .social-icons .icon {
-      width: 25px;
-      height: 25px; } }
+      width: 32px;
+      height: 32px; } }
   .social-icons .icon.icon--wide {
     width: 40px; }
 
