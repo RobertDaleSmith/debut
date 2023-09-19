@@ -7954,11 +7954,10 @@ theme.Product = (function() {
     );
     this.productForm = container.querySelector(this.selectors.productForm);
     this.addToCart = container.querySelector(this.selectors.addToCart);
-    if (this.addToCart) {
-      this.addToCartText = this.addToCart.querySelector(
-        this.selectors.addToCartText
-      ); 
-    }
+    if (this.addToCart) this.addToCartText = this.addToCart.querySelector(
+      this.selectors.addToCartText
+    );
+
     this.shopifyPaymentButton = container.querySelector(
       this.selectors.shopifyPaymentButton
     );
@@ -7975,7 +7974,7 @@ theme.Product = (function() {
       this._initStoreAvailability();
     }
 
-    this.loader = this.addToCart.querySelector(this.selectors.loader);
+    if (this.addToCart) this.loader = this.addToCart.querySelector(this.selectors.loader);
     this.loaderStatus = container.querySelector(this.selectors.loaderStatus);
 
     this.imageZoomWrapper = container.querySelectorAll(
