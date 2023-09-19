@@ -7954,9 +7954,11 @@ theme.Product = (function() {
     );
     this.productForm = container.querySelector(this.selectors.productForm);
     this.addToCart = container.querySelector(this.selectors.addToCart);
-    this.addToCartText = this.addToCart.querySelector(
-      this.selectors.addToCartText
-    );
+    if (this.addToCart) {
+      this.addToCartText = this.addToCart.querySelector(
+        this.selectors.addToCartText
+      ); 
+    }
     this.shopifyPaymentButton = container.querySelector(
       this.selectors.shopifyPaymentButton
     );
