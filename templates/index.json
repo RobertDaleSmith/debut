@@ -37,6 +37,17 @@
         "show_view_all": false
       }
     },
+    "3244f96b-3350-406a-87d0-24020be55558": {
+      "type": "collection",
+      "settings": {
+        "title": "CONTROLLERS",
+        "collection": "limited",
+        "grid": 4,
+        "rows": 3,
+        "show_vendor": false,
+        "show_view_all": false
+      }
+    },
     "055c27fb-e896-4b05-9c13-9e1295d928ac": {
       "type": "collection",
       "settings": {
@@ -47,24 +58,13 @@
         "show_vendor": false,
         "show_view_all": false
       }
-    },
-    "3244f96b-3350-406a-87d0-24020be55558": {
-      "type": "collection",
-      "settings": {
-        "title": "CONTROLLER GIVEAWAYS",
-        "collection": "limited",
-        "grid": 4,
-        "rows": 3,
-        "show_vendor": false,
-        "show_view_all": false
-      }
     }
   },
   "order": [
     "f52e16d0-943b-4f27-8bdc-4fdfe64541fd",
     "a1d11614-afb3-49d7-a6bd-03882bdc9f83",
     "2488df35-966c-4298-bc72-ce217bc77a06",
-    "055c27fb-e896-4b05-9c13-9e1295d928ac",
-    "3244f96b-3350-406a-87d0-24020be55558"
+    "3244f96b-3350-406a-87d0-24020be55558",
+    "055c27fb-e896-4b05-9c13-9e1295d928ac"
   ]
 }
