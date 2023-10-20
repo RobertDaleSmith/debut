@@ -17,7 +17,7 @@
     "a1d11614-afb3-49d7-a6bd-03882bdc9f83": {
       "type": "collection",
       "settings": {
-        "title": "Controller Adapters",
+        "title": "Adapters",
         "collection": "adapters",
         "grid": 4,
         "rows": 5,
