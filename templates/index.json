@@ -1,15 +1,24 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "f52e16d0-943b-4f27-8bdc-4fdfe64541fd": {
       "type": "hero",
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_4973_2048x_post.png",
+        "image": "shopify://shop_images/IMG_4973_2048x_post.png",
         "alignment": "center",
         "hero_layout": "fixed_width",
         "hero_size": "x-small",
         "text_size": "medium",
         "title": "Modern Retro Gaming Accessories",
-        "text": "<p>Controller adapters for some of the most obscure retro gaming consoles.<\/p>",
+        "text": "<p>Controller adapters for some of the most obscure retro gaming consoles.</p>",
         "button_label": "",
         "button_link": ""
       }
@@ -36,35 +45,11 @@
         "show_vendor": false,
         "show_view_all": false
       }
-    },
-    "3244f96b-3350-406a-87d0-24020be55558": {
-      "type": "collection",
-      "settings": {
-        "title": "CONTROLLERS",
-        "collection": "limited",
-        "grid": 4,
-        "rows": 3,
-        "show_vendor": false,
-        "show_view_all": false
-      }
-    },
-    "055c27fb-e896-4b05-9c13-9e1295d928ac": {
-      "type": "collection",
-      "settings": {
-        "title": "Console Parts",
-        "collection": "parts",
-        "grid": 4,
-        "rows": 2,
-        "show_vendor": false,
-        "show_view_all": false
-      }
     }
   },
   "order": [
     "f52e16d0-943b-4f27-8bdc-4fdfe64541fd",
     "a1d11614-afb3-49d7-a6bd-03882bdc9f83",
-    "2488df35-966c-4298-bc72-ce217bc77a06",
-    "3244f96b-3350-406a-87d0-24020be55558",
-    "055c27fb-e896-4b05-9c13-9e1295d928ac"
+    "2488df35-966c-4298-bc72-ce217bc77a06"
   ]
 }
