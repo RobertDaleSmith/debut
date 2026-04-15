@@ -20,12 +20,12 @@
           "type": "price",
           "settings": {}
         },
-        "buttons": {
-          "type": "buttons",
-          "settings": {}
-        },
         "sc_back_in_stock_app_block_kwXw4q": {
           "type": "shopify://apps/sc-back-in-stock/blocks/app-block/839cbcb7-0406-4c2b-8e74-a54d987b90ab",
+          "settings": {}
+        },
+        "buttons": {
+          "type": "buttons",
           "settings": {}
         },
         "escoutofstock": {
@@ -52,8 +52,8 @@
       "block_order": [
         "title",
         "price",
-        "buttons",
         "sc_back_in_stock_app_block_kwXw4q",
+        "buttons",
         "escoutofstock",
         "3d2b2af5-887e-4609-85cd-5a6f1a0da01b",
         "description",
